@@ -28,5 +28,4 @@ skia/win32/
 skia/win64/
 bin/
 bin-int/
-msdfgen.vcxproj
-msdfgen.vcxproj.filters
+*.vcxproj*
